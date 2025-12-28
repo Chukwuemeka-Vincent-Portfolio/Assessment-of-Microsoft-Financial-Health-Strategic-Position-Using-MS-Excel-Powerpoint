@@ -1,0 +1,2 @@
+# Assessment-of-Microsoft-Financial-Health-Strategic-Position-Using-MS-Excel-Powerpoint
+Demonstrate a comprehensive application of the course competencies through a detailed financial analysis and presentation. Select a multinational corporation, analyze its financial statements over the past three years, and apply advanced accounting techniques to assess its financial health and strategic positioning.
