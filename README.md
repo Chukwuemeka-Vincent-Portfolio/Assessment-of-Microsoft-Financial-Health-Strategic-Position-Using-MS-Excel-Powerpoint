@@ -7,15 +7,21 @@ This project provides a comprehensive financial evaluation of Microsoft Corporat
 The primary objective of this analysis was to determine the financial stability and operational efficiency of Microsoft in a competitive global landscape.
 
 **Key Questions:** How has the shift to cloud services impacted revenue streams? Is the company managing its debt-to-equity leverage effectively compared to peers like Apple and Google?.
+
 **Strategic Context:** The analysis considers the impact of international operations, including currency fluctuations and the reporting differences between U.S. GAAP and IFRS.
 
 **Data Understanding**
 The dataset consists of Microsoft’s official financial statements for the last three years, sourced directly from the SEC EDGAR database.
+
   **Data Structure:** The analysis includes Income Statements and Balance Sheets.
-# Key Metrics tracked:
-  **Revenue Streams:** Product vs. Service and Other revenue.
-  **Expense Profiles:** Cost of revenue and operational expenses.
-  **Ratios:** Current Ratio, Quick Ratio, Debt-to-Equity, and Interest Coverage	
+ 
+ **Key Metrics tracked:**
+ 
+   **Revenue Streams:** Product vs. Service and Other revenue.
+  
+   **Expense Profiles:** Cost of revenue and operational expenses.
+    
+   **Ratios:** Current Ratio, Quick Ratio, Debt-to-Equity, and Interest Coverage	
   
 **Modelling & Evaluation**
 The analysis employed a combination of quantitative financial modeling and comparative benchmarking:
