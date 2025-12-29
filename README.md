@@ -1,46 +1,27 @@
-# Assessment-of-Microsoft-Financial-Health-Strategic-Position-Using-MS-Excel-Powerpoint
-Demonstrate a comprehensive application of the course competencies through a detailed financial analysis and presentation. Select a multinational corporation, analyze its financial statements over the past three years, and apply advanced accounting techniques to assess its financial health and strategic positioning.
+# Financial Intelligence: Microsoft Performance & Solvency Analysis (2022–2024)
 
-**Assignment Objectives**
-•	Apply accounting analytical tools to assess financial performance. 
-•	Consolidate financial transactions and prepare financial reports. 
-•	Analyze the effects of different accounting treatments and translate financial statements across various international frameworks. 
-•	Utilize AI tools to enhance data analysis and presentation clarity. 
+**Overview**
+This project provides a comprehensive financial evaluation of Microsoft Corporation, spanning the fiscal years 2022 to 2024. Utilizing horizontal and vertical analysis techniques, the report evaluates revenue growth, profitability trends, and liquidity health. The analysis serves as a strategic review of how the company navigated post-pandemic market shifts, specifically focusing on the transition toward cloud-based service models. 
 
-**Research and Data Collection** 
-•	Select a Multinational Corporation: Choose a company that operates in multiple countries and is listed on a major stock exchange. Ensure the company has publicly available financial statements for at least the past three years. 
-•	
-**Data Sources:** 
-•	
-o	Company’s Official Website: Annual Reports, Earnings Releases, and Investor Presentations. 
-•	
-o	Securities and Exchange Commission (SEC): For U.S. companies, access Form 10-K and 10-Q reports via the EDGAR database. 
-•	
-o	Global Market Data Providers: Bloomberg, Yahoo Finance, or Google Finance for financial data and ratios. 
-•	
-o	Academic and Business Databases: Access through your university’s library to find analyses, market reports, and scholarly articles on your chosen company.
+**Business Understanding**
+The primary objective of this analysis was to determine the financial stability and operational efficiency of Microsoft in a competitive global landscape.
 
-**Analysis Guidelines **
-•	Historical Performance Analysis: 
-•	
-o	How has the company's revenue and profitability changed over the past three years? 
-•	
-o	What trends are observable in the company’s operational costs and net income? 
-•	Financial Position and Health: 
-•	
-o	Assess liquidity ratios, solvency ratios, and other key financial indicators. 
-•	
-o	How do these ratios compare to industry standards or key competitors? 
-•	International Operations Analysis: 
-•	
-o	How do currency fluctuations affect the company’s financial statements? 
-•	
-o	What are the implications of different international accounting standards on the company’s financial reports? 
-•	Use of AI Tools: 
-•	
-o	Employ AI-driven tools to analyze large datasets, improve the accuracy of financial forecasts, or enhance the visual presentation of data. 
-Project Deliverables 
-•	Excel Workbook: This should include all collected data, financial analyses, ratio calculations, and any AI tool outputs. 
-•	Recorded Presentation: A 15-20 minute video presenting your analysis and conclusions. Discuss key insights, strategic recommendations, and the role AI tools played in your analysis.
+**Key Questions:** How has the shift to cloud services impacted revenue streams? Is the company managing its debt-to-equity leverage effectively compared to peers like Apple and Google?.
+**Strategic Context:** The analysis considers the impact of international operations, including currency fluctuations and the reporting differences between U.S. GAAP and IFRS.
+
+**Data Understanding**
+The dataset consists of Microsoft’s official financial statements for the last three years, sourced directly from the SEC EDGAR database.
+  **Data Structure:** The analysis includes Income Statements and Balance Sheets.
+# Key Metrics tracked:
+  **Revenue Streams:** Product vs. Service and Other revenue.
+  **Expense Profiles:** Cost of revenue and operational expenses.
+  **Ratios:** Current Ratio, Quick Ratio, Debt-to-Equity, and Interest Coverage	
+  
+**Modelling & Evaluation**
+The analysis employed a combination of quantitative financial modeling and comparative benchmarking:
+  **Trend Analysis (Horizontal/Vertical):** Identified a 16% total revenue growth in 2024, driven by a 23% increase in the Service division, offsetting a decline in product-related sales.
+  **Ratio Analysis:** **Liquidity:** The Current Ratio stood at 1.27 in 2024, indicating sound short-term solvency.
+  **Solvency:** The Debt-to-Equity ratio improved to 0.91, reflecting a decreased reliance on debt compared to competitors like Apple.
+  **Comparative Evaluation:** Benchmarked Microsoft’s performance against industry standards, noting that its interest coverage ratio (37.29) remains exceptionally strong, allowing it to easily service debt.
 
 
